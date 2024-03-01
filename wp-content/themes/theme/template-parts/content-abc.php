@@ -1,0 +1,1 @@
+<?php echo get_post_meta( $post->ID, 'number_field', true ); ?>
